@@ -1,8 +1,8 @@
-SapiensKNN (K-Nearest Neighbors) is an algorithm for classification and regression that returns the result based on the Euclidean distance between the input values.
+SapiensKNN ([K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)) is an algorithm for classification and regression that returns the result based on the Euclidean distance between the input values.
 
 # SapiensKNN
 
-The SapiensKNN or Sapiens for K-Nearest Neighbors is a Machine Learning algorithm focused on data classification, where the response for each input is calculated based on the smallest Euclidean distance between the prediction input and the training inputs. The returned value for classification will always be one of the labels from the learning DataSet. If the value of the parameter K is greater than 1, the class that is most repeated among the nearest neighbors represented in K will be returned. Although the algorithm's primary focus is on data classification, it can also potentially be used for regression by returning the average of the values of the selected neighbors with the parameter K.
+The SapiensKNN or Sapiens for [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) is a Machine Learning algorithm focused on data classification, where the response for each input is calculated based on the smallest Euclidean distance between the prediction input and the training inputs. The returned value for classification will always be one of the labels from the learning DataSet. If the value of the parameter K is greater than 1, the class that is most repeated among the nearest neighbors represented in K will be returned. Although the algorithm's primary focus is on data classification, it can also potentially be used for regression by returning the average of the values of the selected neighbors with the parameter K.
 
 ## Installation
 
