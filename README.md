@@ -258,7 +258,7 @@ print(results) # displays the test result with the percentage of correct answers
 ```
 
 ## Methods
-### Construtor: SapiensKNN
+### Constructor: SapiensKNN
 
 Parameters
 | Name          | Description                       | Type | Default Value |
