@@ -10,8 +10,6 @@ The SapiensKNN or Sapiens for [K-Nearest Neighbors](https://en.wikipedia.org/wik
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [SapiensKNN](https://pypi.org/project/sapiensknn/).
 
-[Google Colab](https://colab.research.google.com/drive/1XF24hqRVTkMKMQEZNkb6rE2nMpqrG9X5?usp=sharing) | [PyPi](https://pypi.org/project/sapiensknn/)
-
 ```bash
 pip install sapiensknn
 ```
